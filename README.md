@@ -1,1 +1,3 @@
 # vr
+
+`nf start`
